@@ -1,6 +1,8 @@
 # Aliasman
 AliasMan is a multiplatform software to manage aliases 
 
+[![aliasman](https://snapcraft.io//aliasman/badge.svg)](https://snapcraft.io/aliasman)
+
 ## How to Use
 
 ### MacOS
