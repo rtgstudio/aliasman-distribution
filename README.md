@@ -14,3 +14,8 @@ Download the alisaman.deb file from the website or releases section of the repo 
 ## Snapstore 
 
 You can also download it from the [Snapstore](https://snapcraft.io/) directly or use the command `snap install aliasman`
+
+## Issues
+ * You can directly create issues here 
+ * You can submit your issues at https://forms.gle/ekixL7BAvSRCPjur7
+
